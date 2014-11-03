@@ -22,5 +22,4 @@ wget \
       && /tmp/NVIDIA-Linux-x86_64-${CUDA_DRIVER}.run \
         -s \
         -N \
-        --no-kernel-module \
       && rm -rf /tmp/*
