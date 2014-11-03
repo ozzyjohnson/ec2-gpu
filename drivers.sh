@@ -1,6 +1,6 @@
 # Versions and strings.
-ENV CUDA_DRIVER 340.46
-ENV CUDA_INSTALL http://us.download.nvidia.com/XFree86/Linux-x86_64/${CUDA_DRIVER}/NVIDIA-Linux-x86_64-${CUDA_DRIVER}.run
+CUDA_DRIVER=340.46
+CUDA_INSTALL=http://us.download.nvidia.com/XFree86/Linux-x86_64/${CUDA_DRIVER}/NVIDIA-Linux-x86_64-${CUDA_DRIVER}.run
 
 # Install prereqs.
 yum groupinstall \
