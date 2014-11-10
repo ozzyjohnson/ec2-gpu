@@ -1,5 +1,5 @@
 # Versions and strings.
-CUDA_DRIVER=340.46
+CUDA_DRIVER=340.58
 CUDA_INSTALL=http://us.download.nvidia.com/XFree86/Linux-x86_64/${CUDA_DRIVER}/NVIDIA-Linux-x86_64-${CUDA_DRIVER}.run
 
 # Install prereqs.
